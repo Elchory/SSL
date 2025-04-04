@@ -1,6 +1,11 @@
-# **SSL**
+
+># **SSL**
+
+>[!NOTE]
+># *Repositorio personal de tp's individuales.*
+
 >[!IMPORTANT]
-># Sintaxis y Semántica de los Lenguajes
+>## Sintaxis y Semántica de los Lenguajes
 >
 > Curso: **K2151**
 >
