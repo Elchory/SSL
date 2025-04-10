@@ -15,4 +15,10 @@
 > Transcripción del enunciado. "Hello, World!" en C
 > 
 > Hipótesis de trabajo que surgen luego de leer el enunciado: creacion de un proyecto basico de programacion en el lenguaje c.
+>
+> A. El compilador seleccionado es GCC
+> 
+> B. Version del compilador 8.1.0
+> 
+> C. Version de C C17
 > 
